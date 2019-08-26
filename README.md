@@ -4,7 +4,7 @@ Implementation of FFT in Python only using the Numpy module...
 
 # Modelling 
 
-The Transform from the Time to the Frequency domain was represented by Matrix Multiplication of Wk and the respective Layers...
+The Transform from the Time to the Frequency domain was represented by Matrix Multiplication of Wk and the respective Layers... (Note:- The module was developed only to support 8 discrete input signals)
 
 The Wk values are represented as Matrices. For example take W2 then the Matrix is represented by:
                                   
